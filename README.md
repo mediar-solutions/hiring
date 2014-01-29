@@ -36,4 +36,3 @@ Envie um e-mail para jobs-dev@idxpanalytics.com com:
 - Uma breve apresentação
 - Endereço do LinkedIn ou currículo em PDF
 - Endereço do Github (ou outro serviço semelhante)
-- Últimos 3 livros técnicos que leu
