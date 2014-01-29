@@ -34,5 +34,5 @@ A empresa desenvolveu uma plataforma de Big Data e Analytics que monitora em tem
 Está interessado em fazer parte do nosso time de desenvolvimento?
 Envie um e-mail para jobs-dev@idxpanalytics.com com:
 - Uma breve apresentação
-- Endereço do LinkedIn ou currículo em PDF
-- Endereço do Github (ou outro serviço semelhante)
+- Endereço do LinkedIn (caso tenha) ou currículo em PDF
+- Endereço do Github (caso tenha, ou outro serviço semelhante)
