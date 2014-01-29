@@ -1,11 +1,10 @@
-# A IDXP Analytics
-
-A IDXP é uma startup brasileira com sede na Califórnia. Em 2012 foi premiada com o "Global Entrepreneur of the year", pela IBM. Já foi noticiada em grandes veículos como Forbes, Wall Street Journal, Venture Beat, Revista Exame, Folha de São Paulo e vários outros.
-A empresa desenvolveu uma plataforma de Big Data e Analytics que monitora em tempo real o comportamento de clientes e funcionários dentro de lojas de varejo. Os maiores varejistas e marcas do mundo já utilizam a IDXP para aumentar suas vendas e melhorar a sua produtividade. 
-
 # Sobre a vaga
 Continuamos ampliando nosso time de desenvolvimento e buscamos os melhores desenvolvedores para trabalho no Brasil, inicialmente. 
 Nesta posição o candidato fará parte do core team de desenvolvimento, ajudando a aperfeiçoar a nova versão do dashboard onde apresentamos a nossos clientes o comportamento de consumidores dentro de lojas de varejo.
+
+# A IDXP Analytics
+A IDXP é uma startup brasileira com sede na Califórnia. Em 2012 foi premiada com o "Global Entrepreneur of the year", pela IBM. Já foi noticiada em grandes veículos como Forbes, Wall Street Journal, Venture Beat, Revista Exame, Folha de São Paulo e vários outros.
+A empresa desenvolveu uma plataforma de Big Data e Analytics que monitora em tempo real o comportamento de clientes e funcionários dentro de lojas de varejo. Os maiores varejistas e marcas do mundo já utilizam a IDXP para aumentar suas vendas e melhorar a sua produtividade. 
 
 # Conhecimentos
 - Experiência de pelo menos 3 anos com desenvolvimento Ruby
