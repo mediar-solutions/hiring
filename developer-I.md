@@ -38,3 +38,8 @@ Envie um e-mail para jobs-dev@idxpanalytics.com com:
 - Uma breve apresentação
 - Endereço do LinkedIn (caso tenha) ou currículo em PDF
 - Endereço do Github (caso tenha, ou outro serviço semelhante)
+
+# Benefícios
+- Plano de saúde
+- Salário competitivo
+- Participação acionária na empresa
