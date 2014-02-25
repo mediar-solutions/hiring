@@ -1,36 +1,27 @@
-![alt text](http://www.idxpanalytics.com/img/logo.png "IDXP Analytics")
+
+- ![alt text](http://www.idxpanalytics.com/img/logo.png "IDXP Analytics")
 
 # Sobre a vaga
-Continuamos ampliando nosso time de desenvolvimento e buscamos os melhores desenvolvedores para trabalho no Brasil, inicialmente. 
-Nesta posição o candidato fará parte do core team de desenvolvimento, ajudando a aperfeiçoar a nova versão do dashboard onde apresentamos a nossos clientes o comportamento de consumidores dentro de lojas de varejo.
+Continuamos ampliando nosso time de desenvolvimento e buscamos os melhores desenvolvedores para trabalho no Brasil, inicialmente. Nesta posição o candidato fará parte do core team de desenvolvimento, ajudando a aperfeiçoar a nova versão do dashboard onde apresentamos a nossos clientes o comportamento de consumidores dentro de lojas de varejo.
 
 # A IDXP Analytics
-A IDXP é uma startup brasileira com sede na Califórnia. Em 2012 foi premiada com o "Global Entrepreneur of the year", pela IBM. Já foi noticiada em grandes veículos como Forbes, Wall Street Journal, Venture Beat, Revista Exame, Folha de São Paulo e vários outros.
-A empresa desenvolveu uma plataforma de Big Data e Analytics que monitora em tempo real o comportamento de clientes e funcionários dentro de lojas de varejo. Os maiores varejistas e marcas do mundo já utilizam a IDXP para aumentar suas vendas e melhorar a sua produtividade. 
+A IDXP é uma startup brasileira com sede na Califórnia. Em 2012 foi premiada com o "Global Entrepreneur of the year", pela IBM. Já foi noticiada em grandes veículos como Forbes, Wall Street Journal, Venture Beat, Revista Exame, Folha de São Paulo e vários outros. 
+A empresa desenvolveu uma plataforma de Big Data e Analytics que monitora em tempo real o comportamento de clientes e funcionários dentro de lojas de varejo. Os maiores varejistas e marcas do mundo já utilizam a IDXP para aumentar suas vendas e melhorar a sua produtividade.
 
 # Conhecimentos
-- Experiência de pelo menos 3 anos com desenvolvimento Ruby
-- Habilidade para trabalhar com diferentes linguagens e ambientes, quando necessário
-- Sólidos conhecimentos sobre Orientação a Objetos e padrões de desenvolvimento de software
+- Experiência de pelo menos 1 ano com desenvolvimento Ruby
+- Conhecimentos sobre Orientação a Objetos e padrões de desenvolvimento de software
 - Conhecimento de padrões web e compatibilidade entre navegadores
 - TDD
 - Rails
 - MySQL
 - Heroku
-- Amazon (principalmente RDS e S3)
-- Conhecimentos sólidos em HTML/CSS/Javascript
 - Git, Github
 - Inglês no mínimo intermediário, principalmente para conversação
 
 # Plus
 - Residência em Belo Horizonte, MG
 - Disponibilidade para viagens e possível mudança de cidade
-- Ter experiência em construção de dashboards e reports avançados
-- Conhecimento em multitenancy
-- Conhecimento em estruturas de dados de BI
-- Conhecimento/experiência em Hadoop
-- Tarado por performance
-- Contribuição em projetos open source
 
 # Como eu faço?
 Está interessado em fazer parte do nosso time de desenvolvimento?
