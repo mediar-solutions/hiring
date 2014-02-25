@@ -1,5 +1,4 @@
-
-- ![alt text](http://www.idxpanalytics.com/img/logo.png "IDXP Analytics")
+![alt text](http://www.idxpanalytics.com/img/logo.png "IDXP Analytics")
 
 # Sobre a vaga
 Continuamos ampliando nosso time de desenvolvimento e buscamos os melhores desenvolvedores para trabalho no Brasil, inicialmente. Nesta posição o candidato fará parte do core team de desenvolvimento, ajudando a aperfeiçoar a nova versão do dashboard onde apresentamos a nossos clientes o comportamento de consumidores dentro de lojas de varejo.
