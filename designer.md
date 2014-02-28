@@ -8,20 +8,20 @@ A IDXP é uma startup brasileira com sede na Califórnia. Em 2012 foi premiada c
 A empresa desenvolveu uma plataforma de Big Data e Analytics que monitora em tempo real o comportamento de clientes e funcionários dentro de lojas de varejo. Os maiores varejistas e marcas do mundo já utilizam a IDXP para aumentar suas vendas e melhorar a sua produtividade.
 
 # Conhecimentos necessários
-- Adobe Photoshop / Illustrator
 - Sólida experiência em UI
+- Conhecimentos em UX
+- Data Visualisation
+- Experiência no desenvolvido dashboards
+- Adobe Photoshop / Illustrator
 - Inglês no mínimo intermediário, principalmente para conversação e comunicação por escrito
 
 # Plus
 - Residência em Belo Horizonte, MG
 - Disponibilidade para viagens e possível mudança de cidade
-- Conhecimentos em UX
 - Conhecimento em Responsive design
-- Experiência no desenvolvido dashboards
 - Conhecimento em Bootstrap
 - Conhecimento em HTML/CSS
 - Conhecimento em Javascript
-- Data Visualisation
 
 # Gostei, como entro em contato?
 Envie um e-mail para jobs-dev@idxpanalytics.com com:
