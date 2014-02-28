@@ -21,6 +21,7 @@ A empresa desenvolveu uma plataforma de Big Data e Analytics que monitora em tem
 - Conhecimento em Bootstrap
 - Conhecimento em HTML/CSS
 - Conhecimento em Javascript
+- Data Visualisation
 
 # Gostei, como entro em contato?
 Envie um e-mail para jobs-dev@idxpanalytics.com com:
