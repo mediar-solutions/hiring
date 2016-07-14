@@ -2,7 +2,6 @@
 
 Startup brasileira com sede no Vale do Silício contrata:
 
-- [Software Developer I](https://github.com/idxp/hiring/blob/master/developer-I.md)
-- [Software Developer II](https://github.com/idxp/hiring/blob/master/developer-II.md)
-- [Designer](https://github.com/idxp/hiring/blob/master/designer.md)
-- [Assistente Administrativo Financeiro](https://github.com/idxp/hiring/blob/master/assistente-adm-financeiro.md)
+- [Senior Software Engineer](https://github.com/idxp/hiring/blob/master/software-engineer.md)
+- [Data Scientist](xxxxxxxxx)
+- [Operations Analyst](https://github.com/idxp/hiring/blob/master/analista-de-operacoes.md)
